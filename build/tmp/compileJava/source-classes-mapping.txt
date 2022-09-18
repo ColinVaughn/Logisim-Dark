@@ -1,0 +1,1591 @@
+logisim_src/file/ToolbarData.java
+ logisim_src.file.ToolbarData
+ logisim_src.file.ToolbarData$ToolbarListener
+draw/model/CanvasModelListener.java
+ draw.model.CanvasModelListener
+logisim_src/circuit/CircuitAction.java
+ logisim_src.circuit.CircuitAction
+logisim_src/gui/log/ModelEvent.java
+ logisim_src.gui.log.ModelEvent
+logisim_src/circuit/ReplacementMap.java
+ logisim_src.circuit.ReplacementMap
+logisim_src/circuit/Strings.java
+ logisim_src.circuit.Strings
+logisim_src/gui/main/CanvasPaintThread.java
+ logisim_src.gui.main.CanvasPaintThread
+logisim_src/std/wiring/Wiring.java
+ logisim_src.std.wiring.Wiring
+logisim_src/instance/StdAttr.java
+ logisim_src.instance.StdAttr
+logisim_src/std/memory/CounterAttributes.java
+ logisim_src.std.memory.CounterAttributes
+logisim_src/tools/SelectTool.java
+ logisim_src.tools.SelectTool
+ logisim_src.tools.SelectTool$ComputingMessage
+ logisim_src.tools.SelectTool$Listener
+ logisim_src.tools.SelectTool$MoveRequestHandler
+logisim_src/std/Strings.java
+ logisim_src.std.Strings
+logisim_src/analyze/gui/AnalyzerManager.java
+ logisim_src.analyze.gui.AnalyzerManager
+logisim_src/file/LibraryListener.java
+ logisim_src.file.LibraryListener
+logisim_src/gui/main/CircuitJList.java
+ logisim_src.gui.main.CircuitJList
+logisim_src/tools/WireRepairData.java
+ logisim_src.tools.WireRepairData
+logisim_src/analyze/model/VariableListEvent.java
+ logisim_src.analyze.model.VariableListEvent
+draw/tools/ToolbarToolItem.java
+ draw.tools.ToolbarToolItem
+logisim_src/gui/start/About.java
+ logisim_src.gui.start.About
+ logisim_src.gui.start.About$MyPanel
+ logisim_src.gui.start.About$PanelThread
+logisim_src/tools/TextTool.java
+ logisim_src.tools.TextTool
+ logisim_src.tools.TextTool$MyListener
+logisim_src/tools/SetAttributeAction.java
+ logisim_src.tools.SetAttributeAction
+logisim_src/tools/move/MoveRequest.java
+ logisim_src.tools.move.MoveRequest
+logisim_src/gui/main/ExportImage.java
+ logisim_src.gui.main.ExportImage
+ logisim_src.gui.main.ExportImage$ExportThread
+ logisim_src.gui.main.ExportImage$ImageFileFilter
+ logisim_src.gui.main.ExportImage$OptionsPanel
+logisim_src/std/wiring/ProbeAttributes.java
+ logisim_src.std.wiring.ProbeAttributes
+logisim_src/std/gates/NegateAttribute.java
+ logisim_src.std.gates.NegateAttribute
+logisim_src/std/arith/Comparator.java
+ logisim_src.std.arith.Comparator
+logisim_src/circuit/appear/DefaultAppearance.java
+ logisim_src.circuit.appear.DefaultAppearance
+ logisim_src.circuit.appear.DefaultAppearance$CompareLocations
+logisim_src/circuit/appear/CircuitPins.java
+ logisim_src.circuit.appear.CircuitPins
+ logisim_src.circuit.appear.CircuitPins$MyComponentListener
+logisim_src/gui/main/ProjectToolbarModel.java
+ logisim_src.gui.main.ProjectToolbarModel
+logisim_src/comp/ComponentEvent.java
+ logisim_src.comp.ComponentEvent
+logisim_src/circuit/appear/AppearanceAnchor.java
+ logisim_src.circuit.appear.AppearanceAnchor
+logisim_src/gui/main/SimulationToolbarModel.java
+ logisim_src.gui.main.SimulationToolbarModel
+draw/shapes/Text.java
+ draw.shapes.Text
+logisim_src/gui/menu/WindowManagers.java
+ logisim_src.gui.menu.WindowManagers
+ logisim_src.gui.menu.WindowManagers$MyListener
+ logisim_src.gui.menu.WindowManagers$ProjectManager
+logisim_src/data/Size.java
+ logisim_src.data.Size
+logisim_src/gui/main/ProjectExplorer.java
+ logisim_src.gui.main.ProjectExplorer
+ logisim_src.gui.main.ProjectExplorer$DeleteAction
+ logisim_src.gui.main.ProjectExplorer$DragController
+ logisim_src.gui.main.ProjectExplorer$Event
+ logisim_src.gui.main.ProjectExplorer$Listener
+ logisim_src.gui.main.ProjectExplorer$MyCellRenderer
+ logisim_src.gui.main.ProjectExplorer$MyListener
+ logisim_src.gui.main.ProjectExplorer$MyModel
+ logisim_src.gui.main.ProjectExplorer$MySelectionModel
+ logisim_src.gui.main.ProjectExplorer$SubListener
+ logisim_src.gui.main.ProjectExplorer$ToolIcon
+logisim_src/gui/menu/ProjectCircuitActions.java
+ logisim_src.gui.menu.ProjectCircuitActions
+ logisim_src.gui.menu.ProjectCircuitActions$1
+logisim_src/comp/TextField.java
+ logisim_src.comp.TextField
+logisim_src/tools/PokeTool.java
+ logisim_src.tools.PokeTool
+ logisim_src.tools.PokeTool$Listener
+ logisim_src.tools.PokeTool$WireCaret
+logisim_src/data/BitWidth.java
+ logisim_src.data.BitWidth
+ logisim_src.data.BitWidth$Attribute
+draw/toolbar/ToolbarSeparator.java
+ draw.toolbar.ToolbarSeparator
+draw/model/AbstractCanvasObject.java
+ draw.model.AbstractCanvasObject
+logisim_src/std/arith/Adder.java
+ logisim_src.std.arith.Adder
+logisim_src/util/LocaleManager.java
+ logisim_src.util.LocaleManager
+ logisim_src.util.LocaleManager$LocaleGetter
+logisim_src/util/GifEncoder.java
+ logisim_src.util.GifEncoder
+ logisim_src.util.GifEncoder$BitFile
+ logisim_src.util.GifEncoder$BitUtils
+ logisim_src.util.GifEncoder$ImageDescriptor
+ logisim_src.util.GifEncoder$LZWCompressor
+ logisim_src.util.GifEncoder$LZWStringTable
+ logisim_src.util.GifEncoder$MyGrabber
+ logisim_src.util.GifEncoder$ScreenDescriptor
+logisim_src/circuit/appear/AppearancePort.java
+ logisim_src.circuit.appear.AppearancePort
+draw/model/CanvasModelEvent.java
+ draw.model.CanvasModelEvent
+logisim_src/gui/start/Strings.java
+ logisim_src.gui.start.Strings
+logisim_src/tools/key/KeyConfigurator.java
+ logisim_src.tools.key.KeyConfigurator
+logisim_src/circuit/WireRepair.java
+ logisim_src.circuit.WireRepair
+ logisim_src.circuit.WireRepair$MergeSets
+logisim_src/gui/appear/AppearanceEditHandler.java
+ logisim_src.gui.appear.AppearanceEditHandler
+logisim_src/circuit/WireThread.java
+ logisim_src.circuit.WireThread
+logisim_src/gui/main/StatisticsDialog.java
+ logisim_src.gui.main.StatisticsDialog
+ logisim_src.gui.main.StatisticsDialog$CompareString
+ logisim_src.gui.main.StatisticsDialog$StatisticsTable
+ logisim_src.gui.main.StatisticsDialog$StatisticsTableModel
+logisim_src/analyze/model/TruthTableListener.java
+ logisim_src.analyze.model.TruthTableListener
+logisim_src/tools/Pokable.java
+ logisim_src.tools.Pokable
+logisim_src/file/XmlReaderException.java
+ logisim_src.file.XmlReaderException
+logisim_src/data/Value.java
+ logisim_src.data.Value
+logisim_src/util/MacCompatibility.java
+ logisim_src.util.MacCompatibility
+logisim_src/circuit/SimulatorTicker.java
+ logisim_src.circuit.SimulatorTicker
+logisim_src/file/LogisimFileActions.java
+ logisim_src.file.LogisimFileActions
+ logisim_src.file.LogisimFileActions$AddCircuit
+ logisim_src.file.LogisimFileActions$LoadLibraries
+ logisim_src.file.LogisimFileActions$MoveCircuit
+ logisim_src.file.LogisimFileActions$RemoveCircuit
+ logisim_src.file.LogisimFileActions$RevertAttributeValue
+ logisim_src.file.LogisimFileActions$RevertDefaults
+ logisim_src.file.LogisimFileActions$SetMainCircuit
+ logisim_src.file.LogisimFileActions$UnloadLibraries
+draw/undo/UndoLog.java
+ draw.undo.UndoLog
+draw/actions/ModelRemoveAction.java
+ draw.actions.ModelRemoveAction
+logisim_src/tools/move/SearchNode.java
+ logisim_src.tools.move.SearchNode
+gray/CounterData.java
+ gray.CounterData
+logisim_src/gui/generic/AttrTableModelEvent.java
+ logisim_src.gui.generic.AttrTableModelEvent
+logisim_src/gui/prefs/LayoutOptions.java
+ logisim_src.gui.prefs.LayoutOptions
+logisim_src/util/TableLayout.java
+ logisim_src.util.TableLayout
+logisim_src/gui/main/AttrTableComponentModel.java
+ logisim_src.gui.main.AttrTableComponentModel
+logisim_src/gui/appear/SelectionAction.java
+ logisim_src.gui.appear.SelectionAction
+logisim_src/comp/EndData.java
+ logisim_src.comp.EndData
+draw/util/ZOrder.java
+ draw.util.ZOrder
+gray/SimpleGrayCounter.java
+ gray.SimpleGrayCounter
+logisim_src/analyze/model/TruthTable.java
+ logisim_src.analyze.model.TruthTable
+ logisim_src.analyze.model.TruthTable$MyListener
+logisim_src/analyze/gui/Analyzer.java
+ logisim_src.analyze.gui.Analyzer
+ logisim_src.analyze.gui.Analyzer$1
+ logisim_src.analyze.gui.Analyzer$EditListener
+ logisim_src.analyze.gui.Analyzer$MyListener
+logisim_src/gui/generic/LFrame.java
+ logisim_src.gui.generic.LFrame
+logisim_src/std/io/Button.java
+ logisim_src.std.io.Button
+ logisim_src.std.io.Button$Logger
+ logisim_src.std.io.Button$Poker
+logisim_src/std/wiring/TransmissionGate.java
+ logisim_src.std.wiring.TransmissionGate
+logisim_src/gui/opts/Strings.java
+ logisim_src.gui.opts.Strings
+draw/undo/UndoLogListener.java
+ draw.undo.UndoLogListener
+draw/tools/SelectTool.java
+ draw.tools.SelectTool
+draw/undo/UndoLogEvent.java
+ draw.undo.UndoLogEvent
+logisim_src/circuit/appear/PortManager.java
+ logisim_src.circuit.appear.PortManager
+logisim_src/gui/main/SimulationExplorer.java
+ logisim_src.gui.main.SimulationExplorer
+logisim_src/comp/ComponentState.java
+ logisim_src.comp.ComponentState
+logisim_src/gui/prefs/PrefOption.java
+ logisim_src.gui.prefs.PrefOption
+logisim_src/util/StringGetter.java
+ logisim_src.util.StringGetter
+logisim_src/gui/generic/AttrTableSetException.java
+ logisim_src.gui.generic.AttrTableSetException
+logisim_src/util/SmallSet.java
+ logisim_src.util.SmallSet
+ logisim_src.util.SmallSet$ArrayIterator
+draw/tools/LineTool.java
+ draw.tools.LineTool
+logisim_src/prefs/Template.java
+ logisim_src.prefs.Template
+draw/shapes/RoundRectangle.java
+ draw.shapes.RoundRectangle
+logisim_src/std/memory/Ram.java
+ logisim_src.std.memory.Ram
+ logisim_src.std.memory.Ram$Logger
+ logisim_src.std.memory.Ram$RamState
+ logisim_src.std.memory.Ram$RamState$1
+logisim_src/gui/main/ToolboxManip.java
+ logisim_src.gui.main.ToolboxManip
+ logisim_src.gui.main.ToolboxManip$MyListener
+logisim_src/instance/Instance.java
+ logisim_src.instance.Instance
+logisim_src/tools/AbstractCaret.java
+ logisim_src.tools.AbstractCaret
+logisim_src/std/base/Strings.java
+ logisim_src.std.base.Strings
+logisim_src/std/memory/ShiftRegister.java
+ logisim_src.std.memory.ShiftRegister
+logisim_src/gui/generic/CanvasPaneContents.java
+ logisim_src.gui.generic.CanvasPaneContents
+logisim_src/data/AttributeListener.java
+ logisim_src.data.AttributeListener
+logisim_src/circuit/CircuitWires.java
+ logisim_src.circuit.CircuitWires
+ logisim_src.circuit.CircuitWires$BundleMap
+ logisim_src.circuit.CircuitWires$SplitterData
+ logisim_src.circuit.CircuitWires$State
+ logisim_src.circuit.CircuitWires$ThreadBundle
+ logisim_src.circuit.CircuitWires$TunnelListener
+draw/tools/RoundRectangleTool.java
+ draw.tools.RoundRectangleTool
+logisim_src/std/gates/Strings.java
+ logisim_src.std.gates.Strings
+logisim_src/comp/ManagedComponent.java
+ logisim_src.comp.ManagedComponent
+logisim_src/circuit/SimulatorListener.java
+ logisim_src.circuit.SimulatorListener
+logisim_src/instance/InstanceLoggerAdapter.java
+ logisim_src.instance.InstanceLoggerAdapter
+logisim_src/gui/main/AttrTableToolModel.java
+ logisim_src.gui.main.AttrTableToolModel
+logisim_src/tools/key/KeyConfigurationEvent.java
+ logisim_src.tools.key.KeyConfigurationEvent
+logisim_src/circuit/appear/CircuitAppearance.java
+ logisim_src.circuit.appear.CircuitAppearance
+ logisim_src.circuit.appear.CircuitAppearance$MyListener
+logisim_src/gui/menu/MenuItemHelper.java
+ logisim_src.gui.menu.MenuItemHelper
+draw/tools/CurveTool.java
+ draw.tools.CurveTool
+draw/gui/Toolbar.java
+ draw.gui.Toolbar
+ draw.gui.Toolbar$Listener
+logisim_src/gui/main/CanvasPainter.java
+ logisim_src.gui.main.CanvasPainter
+logisim_src/std/arith/Negator.java
+ logisim_src.std.arith.Negator
+logisim_src/gui/appear/Strings.java
+ logisim_src.gui.appear.Strings
+draw/undo/UndoLogDispatcher.java
+ draw.undo.UndoLogDispatcher
+logisim_src/instance/InstanceData.java
+ logisim_src.instance.InstanceData
+logisim_src/std/memory/MemContentsSub.java
+ logisim_src.std.memory.MemContentsSub
+ logisim_src.std.memory.MemContentsSub$ByteContents
+ logisim_src.std.memory.MemContentsSub$ContentsInterface
+ logisim_src.std.memory.MemContentsSub$IntContents
+ logisim_src.std.memory.MemContentsSub$ShortContents
+logisim_src/file/ProjectsDirty.java
+ logisim_src.file.ProjectsDirty
+ logisim_src.file.ProjectsDirty$DirtyListener
+ logisim_src.file.ProjectsDirty$ProjectListListener
+logisim_src/std/wiring/PinAttributes.java
+ logisim_src.std.wiring.PinAttributes
+logisim_src/circuit/WireUtil.java
+ logisim_src.circuit.WireUtil
+logisim_src/gui/log/ComponentSelector.java
+ logisim_src.gui.log.ComponentSelector
+ logisim_src.gui.log.ComponentSelector$CircuitNode
+ logisim_src.gui.log.ComponentSelector$CompareByName
+ logisim_src.gui.log.ComponentSelector$ComponentNode
+ logisim_src.gui.log.ComponentSelector$MyCellRenderer
+ logisim_src.gui.log.ComponentSelector$OptionNode
+logisim_src/circuit/appear/CircuitAppearanceListener.java
+ logisim_src.circuit.appear.CircuitAppearanceListener
+logisim_src/data/Direction.java
+ logisim_src.data.Direction
+logisim_src/proj/Action.java
+ logisim_src.proj.Action
+logisim_src/util/WindowMenuManager.java
+ logisim_src.util.WindowMenuManager
+logisim_src/std/io/Keyboard.java
+ logisim_src.std.io.Keyboard
+ logisim_src.std.io.Keyboard$Poker
+logisim_src/std/base/TextAttributes.java
+ logisim_src.std.base.TextAttributes
+logisim_src/gui/log/Selection.java
+ logisim_src.gui.log.Selection
+logisim_src/gui/log/SelectionItem.java
+ logisim_src.gui.log.SelectionItem
+logisim_src/std/wiring/Ground.java
+ logisim_src.std.wiring.Ground
+hex/HexModelListener.java
+ hex.HexModelListener
+logisim_src/gui/opts/OptionsFrame.java
+ logisim_src.gui.opts.OptionsFrame
+ logisim_src.gui.opts.OptionsFrame$MyListener
+ logisim_src.gui.opts.OptionsFrame$WindowMenuManager
+logisim_src/analyze/model/VariableListListener.java
+ logisim_src.analyze.model.VariableListListener
+logisim_src/std/wiring/Tunnel.java
+ logisim_src.std.wiring.Tunnel
+logisim_src/prefs/PrefMonitorInt.java
+ logisim_src.prefs.PrefMonitorInt
+logisim_src/gui/main/ToolAttributeAction.java
+ logisim_src.gui.main.ToolAttributeAction
+logisim_src/gui/main/LogisimToolbarItem.java
+ logisim_src.gui.main.LogisimToolbarItem
+logisim_src/file/LibraryEventSource.java
+ logisim_src.file.LibraryEventSource
+logisim_src/gui/menu/EditPopup.java
+ logisim_src.gui.menu.EditPopup
+ logisim_src.gui.menu.EditPopup$Listener
+logisim_src/std/memory/MemContents.java
+ logisim_src.std.memory.MemContents
+logisim_src/std/gates/NandGate.java
+ logisim_src.std.gates.NandGate
+logisim_src/tools/key/BitWidthConfigurator.java
+ logisim_src.tools.key.BitWidthConfigurator
+logisim_src/instance/InstancePainter.java
+ logisim_src.instance.InstancePainter
+logisim_src/std/wiring/Strings.java
+ logisim_src.std.wiring.Strings
+logisim_src/gui/main/KeyboardToolSelection.java
+ logisim_src.gui.main.KeyboardToolSelection
+logisim_src/circuit/SplitterFactory.java
+ logisim_src.circuit.SplitterFactory
+logisim_src/gui/generic/AttrTable.java
+ logisim_src.gui.generic.AttrTable
+ logisim_src.gui.generic.AttrTable$CellEditor
+ logisim_src.gui.generic.AttrTable$MyDialog
+ logisim_src.gui.generic.AttrTable$NullAttrModel
+ logisim_src.gui.generic.AttrTable$TableModelAdapter
+ logisim_src.gui.generic.AttrTable$TitleLabel
+logisim_src/util/LocaleListener.java
+ logisim_src.util.LocaleListener
+logisim_src/prefs/Strings.java
+ logisim_src.prefs.Strings
+logisim_src/std/memory/Memory.java
+ logisim_src.std.memory.Memory
+draw/model/DrawingOverlaps.java
+ draw.model.DrawingOverlaps
+logisim_src/util/JTreeDragController.java
+ logisim_src.util.JTreeDragController
+logisim_src/util/JDialogOk.java
+ logisim_src.util.JDialogOk
+ logisim_src.util.JDialogOk$MyListener
+logisim_src/gui/menu/SimulateListener.java
+ logisim_src.gui.menu.SimulateListener
+logisim_src/gui/start/Startup.java
+ logisim_src.gui.start.Startup
+logisim_src/std/gates/AbstractGate.java
+ logisim_src.std.gates.AbstractGate
+ logisim_src.std.gates.AbstractGate$1
+ logisim_src.std.gates.AbstractGate$2
+logisim_src/file/LoadFailedException.java
+ logisim_src.file.LoadFailedException
+logisim_src/analyze/gui/VariableTab.java
+ logisim_src.analyze.gui.VariableTab
+ logisim_src.analyze.gui.VariableTab$MyListener
+ logisim_src.analyze.gui.VariableTab$VariableListModel
+logisim_src/gui/appear/AppearanceView.java
+ logisim_src.gui.appear.AppearanceView
+logisim_src/gui/log/SelectionList.java
+ logisim_src.gui.log.SelectionList
+ logisim_src.gui.log.SelectionList$Model
+ logisim_src.gui.log.SelectionList$MyCellRenderer
+logisim_src/file/Loader.java
+ logisim_src.file.Loader
+ logisim_src.file.Loader$JarFileFilter
+ logisim_src.file.Loader$LogisimFileFilter
+logisim_src/std/gates/Buffer.java
+ logisim_src.std.gates.Buffer
+ logisim_src.std.gates.Buffer$1
+logisim_src/util/HorizontalSplitPane.java
+ logisim_src.util.HorizontalSplitPane
+ logisim_src.util.HorizontalSplitPane$Dragbar
+ logisim_src.util.HorizontalSplitPane$MyDragbar
+ logisim_src.util.HorizontalSplitPane$MyLayout
+logisim_src/gui/opts/ComboOption.java
+ logisim_src.gui.opts.ComboOption
+logisim_src/file/LibraryEvent.java
+ logisim_src.file.LibraryEvent
+logisim_src/std/memory/Mem.java
+ logisim_src.std.memory.Mem
+ logisim_src.std.memory.Mem$MemListener
+logisim_src/data/AttributeOptionInterface.java
+ logisim_src.data.AttributeOptionInterface
+logisim_src/gui/hex/HexFrame.java
+ logisim_src.gui.hex.HexFrame
+ logisim_src.gui.hex.HexFrame$EditListener
+ logisim_src.gui.hex.HexFrame$MyListener
+ logisim_src.gui.hex.HexFrame$WindowMenuManager
+draw/gui/SelectionAttributes.java
+ draw.gui.SelectionAttributes
+ draw.gui.SelectionAttributes$Listener
+logisim_src/analyze/gui/TabInterface.java
+ logisim_src.analyze.gui.TabInterface
+logisim_src/gui/menu/OpenRecent.java
+ logisim_src.gui.menu.OpenRecent
+ logisim_src.gui.menu.OpenRecent$RecentItem
+logisim_src/file/LogisimFile.java
+ logisim_src.file.LogisimFile
+ logisim_src.file.LogisimFile$WritingThread
+draw/model/AttributeMapKey.java
+ draw.model.AttributeMapKey
+logisim_src/gui/main/Frame.java
+ logisim_src.gui.main.Frame
+ logisim_src.gui.main.Frame$MyProjectListener
+ logisim_src.gui.main.Frame$MyWindowListener
+logisim_src/gui/prefs/PreferencesFrame.java
+ logisim_src.gui.prefs.PreferencesFrame
+ logisim_src.gui.prefs.PreferencesFrame$MyListener
+ logisim_src.gui.prefs.PreferencesFrame$WindowMenuManager
+logisim_src/tools/CaretListener.java
+ logisim_src.tools.CaretListener
+logisim_src/util/Strings.java
+ logisim_src.util.Strings
+draw/tools/AbstractTool.java
+ draw.tools.AbstractTool
+draw/model/Handle.java
+ draw.model.Handle
+logisim_src/std/wiring/Probe.java
+ logisim_src.std.wiring.Probe
+ logisim_src.std.wiring.Probe$ProbeLogger
+ logisim_src.std.wiring.Probe$StateData
+logisim_src/util/ArraySet.java
+ logisim_src.util.ArraySet
+ logisim_src.util.ArraySet$ArrayIterator
+draw/shapes/Rectangular.java
+ draw.shapes.Rectangular
+logisim_src/analyze/model/AnalyzerModel.java
+ logisim_src.analyze.model.AnalyzerModel
+logisim_src/tools/move/MoveResult.java
+ logisim_src.tools.move.MoveResult
+logisim_src/util/LocaleSelector.java
+ logisim_src.util.LocaleSelector
+ logisim_src.util.LocaleSelector$LocaleOption
+draw/model/Drawing.java
+ draw.model.Drawing
+logisim_src/instance/InstanceComponent.java
+ logisim_src.instance.InstanceComponent
+logisim_src/analyze/model/OutputExpressionsEvent.java
+ logisim_src.analyze.model.OutputExpressionsEvent
+draw/shapes/Line.java
+ draw.shapes.Line
+logisim_src/gui/main/Clipboard.java
+ logisim_src.gui.main.Clipboard
+logisim_src/util/PropertyChangeWeakSupport.java
+ logisim_src.util.PropertyChangeWeakSupport
+ logisim_src.util.PropertyChangeWeakSupport$ListenerData
+logisim_src/tools/key/KeyConfigurationResult.java
+ logisim_src.tools.key.KeyConfigurationResult
+logisim_src/gui/log/TablePanel.java
+ logisim_src.gui.log.TablePanel
+ logisim_src.gui.log.TablePanel$MyListener
+ logisim_src.gui.log.TablePanel$VerticalScrollBar
+logisim_src/circuit/WidthIncompatibilityData.java
+ logisim_src.circuit.WidthIncompatibilityData
+logisim_src/proj/Projects.java
+ logisim_src.proj.Projects
+ logisim_src.proj.Projects$MyListener
+logisim_src/proj/Dependencies.java
+ logisim_src.proj.Dependencies
+ logisim_src.proj.Dependencies$MyListener
+logisim_src/std/memory/Counter.java
+ logisim_src.std.memory.Counter
+logisim_src/gui/main/LayoutEditHandler.java
+ logisim_src.gui.main.LayoutEditHandler
+logisim_src/gui/log/ComponentIcon.java
+ logisim_src.gui.log.ComponentIcon
+logisim_src/instance/InstanceDataSingleton.java
+ logisim_src.instance.InstanceDataSingleton
+logisim_src/circuit/WireSet.java
+ logisim_src.circuit.WireSet
+logisim_src/file/XmlWriter.java
+ logisim_src.file.XmlWriter
+logisim_src/std/memory/DFlipFlop.java
+ logisim_src.std.memory.DFlipFlop
+logisim_src/util/JFileChoosers.java
+ logisim_src.util.JFileChoosers
+ logisim_src.util.JFileChoosers$LogisimFileChooser
+logisim_src/data/Location.java
+ logisim_src.data.Location
+logisim_src/util/CollectionUtil.java
+ logisim_src.util.CollectionUtil
+ logisim_src.util.CollectionUtil$UnionList
+ logisim_src.util.CollectionUtil$UnionSet
+logisim_src/gui/appear/AppearanceCanvas.java
+ logisim_src.gui.appear.AppearanceCanvas
+ logisim_src.gui.appear.AppearanceCanvas$Listener
+logisim_src/gui/generic/AttrTableModelRow.java
+ logisim_src.gui.generic.AttrTableModelRow
+draw/shapes/LineUtil.java
+ draw.shapes.LineUtil
+logisim_src/circuit/SplitterParameters.java
+ logisim_src.circuit.SplitterParameters
+logisim_src/analyze/gui/DefaultRegistry.java
+ logisim_src.analyze.gui.DefaultRegistry
+ logisim_src.analyze.gui.DefaultRegistry$MyListener
+logisim_src/comp/ComponentFactory.java
+ logisim_src.comp.ComponentFactory
+draw/shapes/CurveUtil.java
+ draw.shapes.CurveUtil
+logisim_src/std/wiring/DurationAttribute.java
+ logisim_src.std.wiring.DurationAttribute
+logisim_src/std/memory/Strings.java
+ logisim_src.std.memory.Strings
+draw/canvas/ActionDispatcher.java
+ draw.canvas.ActionDispatcher
+logisim_src/std/memory/ShiftRegisterData.java
+ logisim_src.std.memory.ShiftRegisterData
+logisim_src/gui/menu/Strings.java
+ logisim_src.gui.menu.Strings
+logisim_src/gui/menu/MenuEdit.java
+ logisim_src.gui.menu.MenuEdit
+ logisim_src.gui.menu.MenuEdit$MyListener
+logisim_src/util/TableSorter.java
+ logisim_src.util.TableSorter
+ logisim_src.util.TableSorter$1
+ logisim_src.util.TableSorter$2
+ logisim_src.util.TableSorter$Arrow
+ logisim_src.util.TableSorter$Directive
+ logisim_src.util.TableSorter$MouseHandler
+ logisim_src.util.TableSorter$Row
+ logisim_src.util.TableSorter$SortableHeaderRenderer
+ logisim_src.util.TableSorter$TableModelHandler
+draw/actions/ModelMoveHandleAction.java
+ draw.actions.ModelMoveHandleAction
+logisim_src/circuit/CircuitTransaction.java
+ logisim_src.circuit.CircuitTransaction
+logisim_src/prefs/PrefMonitorBoolean.java
+ logisim_src.prefs.PrefMonitorBoolean
+logisim_src/prefs/RecentProjects.java
+ logisim_src.prefs.RecentProjects
+ logisim_src.prefs.RecentProjects$FileTime
+logisim_src/std/io/KeyboardData.java
+ logisim_src.std.io.KeyboardData
+logisim_src/file/Options.java
+ logisim_src.file.Options
+logisim_src/analyze/gui/TruthTableMouseListener.java
+ logisim_src.analyze.gui.TruthTableMouseListener
+logisim_src/proj/ProjectEvent.java
+ logisim_src.proj.ProjectEvent
+logisim_src/tools/FactoryAttributes.java
+ logisim_src.tools.FactoryAttributes
+logisim_src/gui/main/LayoutToolbarModel.java
+ logisim_src.gui.main.LayoutToolbarModel
+ logisim_src.gui.main.LayoutToolbarModel$MyListener
+ logisim_src.gui.main.LayoutToolbarModel$ToolItem
+logisim_src/gui/main/SimulationTreeNode.java
+ logisim_src.gui.main.SimulationTreeNode
+logisim_src/file/XmlIterator.java
+ logisim_src.file.XmlIterator
+logisim_src/analyze/gui/MinimizedTab.java
+ logisim_src.analyze.gui.MinimizedTab
+ logisim_src.analyze.gui.MinimizedTab$FormatModel
+ logisim_src.analyze.gui.MinimizedTab$MyListener
+draw/util/MatchingSet.java
+ draw.util.MatchingSet
+ draw.util.MatchingSet$MatchIterator
+ draw.util.MatchingSet$Member
+logisim_src/tools/WiringTool.java
+ logisim_src.tools.WiringTool
+logisim_src/std/gates/NotGate.java
+ logisim_src.std.gates.NotGate
+ logisim_src.std.gates.NotGate$1
+logisim_src/gui/appear/LayoutPopupManager.java
+ logisim_src.gui.appear.LayoutPopupManager
+draw/shapes/Poly.java
+ draw.shapes.Poly
+logisim_src/std/io/DotMatrix.java
+ logisim_src.std.io.DotMatrix
+ logisim_src.std.io.DotMatrix$State
+logisim_src/circuit/appear/CircuitAppearanceEvent.java
+ logisim_src.circuit.appear.CircuitAppearanceEvent
+logisim_src/tools/key/IntegerConfigurator.java
+ logisim_src.tools.key.IntegerConfigurator
+logisim_src/std/memory/RegisterData.java
+ logisim_src.std.memory.RegisterData
+logisim_src/data/Strings.java
+ logisim_src.data.Strings
+logisim_src/std/wiring/Clock.java
+ logisim_src.std.wiring.Clock
+ logisim_src.std.wiring.Clock$ClockLogger
+ logisim_src.std.wiring.Clock$ClockPoker
+ logisim_src.std.wiring.Clock$ClockState
+logisim_src/analyze/gui/ExpressionView.java
+ logisim_src.analyze.gui.ExpressionView
+ logisim_src.analyze.gui.ExpressionView$ExpressionData
+ logisim_src.analyze.gui.ExpressionView$ExpressionData$1
+ logisim_src.analyze.gui.ExpressionView$MyListener
+ logisim_src.analyze.gui.ExpressionView$NotData
+ logisim_src.analyze.gui.ExpressionView$RenderData
+logisim_src/data/AttributeDefaultProvider.java
+ logisim_src.data.AttributeDefaultProvider
+logisim_src/std/wiring/Constant.java
+ logisim_src.std.wiring.Constant
+ logisim_src.std.wiring.Constant$ConstantAttributes
+ logisim_src.std.wiring.Constant$ConstantExpression
+logisim_src/std/memory/MemMenu.java
+ logisim_src.std.memory.MemMenu
+logisim_src/std/wiring/Transistor.java
+ logisim_src.std.wiring.Transistor
+logisim_src/instance/Strings.java
+ logisim_src.instance.Strings
+draw/util/EditableLabel.java
+ draw.util.EditableLabel
+logisim_src/gui/opts/SimulateOptions.java
+ logisim_src.gui.opts.SimulateOptions
+ logisim_src.gui.opts.SimulateOptions$MyListener
+logisim_src/gui/appear/ClipboardContents.java
+ logisim_src.gui.appear.ClipboardContents
+logisim_src/analyze/model/Implicant.java
+ logisim_src.analyze.model.Implicant
+ logisim_src.analyze.model.Implicant$TermIterator
+logisim_src/analyze/model/VariableList.java
+ logisim_src.analyze.model.VariableList
+logisim_src/gui/menu/Menu.java
+ logisim_src.gui.menu.Menu
+logisim_src/util/GraphicsUtil.java
+ logisim_src.util.GraphicsUtil
+logisim_src/gui/log/Loggable.java
+ logisim_src.gui.log.Loggable
+logisim_src/instance/InstancePoker.java
+ logisim_src.instance.InstancePoker
+logisim_src/gui/generic/AttributeSetTableModel.java
+ logisim_src.gui.generic.AttributeSetTableModel
+ logisim_src.gui.generic.AttributeSetTableModel$AttrRow
+logisim_src/std/memory/SRFlipFlop.java
+ logisim_src.std.memory.SRFlipFlop
+logisim_src/circuit/CircuitListener.java
+ logisim_src.circuit.CircuitListener
+logisim_src/LogisimMain.java
+ logisim_src.LogisimMain
+logisim_src/std/gates/OddParityGate.java
+ logisim_src.std.gates.OddParityGate
+logisim_src/util/InputEventUtil.java
+ logisim_src.util.InputEventUtil
+draw/toolbar/ToolbarModelEvent.java
+ draw.toolbar.ToolbarModelEvent
+logisim_src/tools/move/ConnectorThread.java
+ logisim_src.tools.move.ConnectorThread
+logisim_src/std/gates/XnorGate.java
+ logisim_src.std.gates.XnorGate
+logisim_src/circuit/SplitterDistributeItem.java
+ logisim_src.circuit.SplitterDistributeItem
+logisim_src/circuit/PropagationPoints.java
+ logisim_src.circuit.PropagationPoints
+ logisim_src.circuit.PropagationPoints$Entry
+logisim_src/gui/generic/ZoomModel.java
+ logisim_src.gui.generic.ZoomModel
+logisim_src/gui/main/MenuListener.java
+ logisim_src.gui.main.MenuListener
+ logisim_src.gui.main.MenuListener$EditListener
+ logisim_src.gui.main.MenuListener$EnabledListener
+ logisim_src.gui.main.MenuListener$FileListener
+ logisim_src.gui.main.MenuListener$ProjectMenuListener
+ logisim_src.gui.main.MenuListener$SimulateMenuListener
+logisim_src/std/memory/RegisterPoker.java
+ logisim_src.std.memory.RegisterPoker
+logisim_src/circuit/CircuitMutatorImpl.java
+ logisim_src.circuit.CircuitMutatorImpl
+draw/util/EditableLabelField.java
+ draw.util.EditableLabelField
+logisim_src/gui/log/SelectionPanel.java
+ logisim_src.gui.log.SelectionPanel
+ logisim_src.gui.log.SelectionPanel$Listener
+logisim_src/gui/appear/AppearanceSelection.java
+ logisim_src.gui.appear.AppearanceSelection
+draw/shapes/Curve.java
+ draw.shapes.Curve
+logisim_src/tools/FactoryDescription.java
+ logisim_src.tools.FactoryDescription
+draw/actions/ModelInsertHandleAction.java
+ draw.actions.ModelInsertHandleAction
+logisim_src/circuit/CircuitMutator.java
+ logisim_src.circuit.CircuitMutator
+draw/shapes/Rectangle.java
+ draw.shapes.Rectangle
+logisim_src/tools/key/JoinedConfigurator.java
+ logisim_src.tools.key.JoinedConfigurator
+logisim_src/file/LibraryLoader.java
+ logisim_src.file.LibraryLoader
+logisim_src/tools/move/MoveRequestListener.java
+ logisim_src.tools.move.MoveRequestListener
+logisim_src/std/memory/TFlipFlop.java
+ logisim_src.std.memory.TFlipFlop
+logisim_src/file/LibraryManager.java
+ logisim_src.file.LibraryManager
+ logisim_src.file.LibraryManager$JarDescriptor
+ logisim_src.file.LibraryManager$LibraryDescriptor
+ logisim_src.file.LibraryManager$LogisimProjectDescriptor
+logisim_src/data/Attributes.java
+ logisim_src.data.Attributes
+ logisim_src.data.Attributes$BooleanAttribute
+ logisim_src.data.Attributes$ColorAttribute
+ logisim_src.data.Attributes$ColorChooser
+ logisim_src.data.Attributes$ConstantGetter
+ logisim_src.data.Attributes$DirectionAttribute
+ logisim_src.data.Attributes$DoubleAttribute
+ logisim_src.data.Attributes$FontAttribute
+ logisim_src.data.Attributes$FontChooser
+ logisim_src.data.Attributes$HexIntegerAttribute
+ logisim_src.data.Attributes$IntegerAttribute
+ logisim_src.data.Attributes$IntegerRangeAttribute
+ logisim_src.data.Attributes$LocationAttribute
+ logisim_src.data.Attributes$OptionAttribute
+ logisim_src.data.Attributes$OptionComboRenderer
+ logisim_src.data.Attributes$StringAttribute
+logisim_src/util/ListUtil.java
+ logisim_src.util.ListUtil
+ logisim_src.util.ListUtil$JoinedList
+draw/model/CanvasObject.java
+ draw.model.CanvasObject
+logisim_src/std/memory/MemPoker.java
+ logisim_src.std.memory.MemPoker
+ logisim_src.std.memory.MemPoker$AddrPoker
+ logisim_src.std.memory.MemPoker$DataPoker
+draw/canvas/Canvas.java
+ draw.canvas.Canvas
+logisim_src/gui/prefs/TemplateOptions.java
+ logisim_src.gui.prefs.TemplateOptions
+ logisim_src.gui.prefs.TemplateOptions$MyListener
+logisim_src/circuit/CircuitPoints.java
+ logisim_src.circuit.CircuitPoints
+ logisim_src.circuit.CircuitPoints$LocationData
+logisim_src/analyze/gui/TableTabCaret.java
+ logisim_src.analyze.gui.TableTabCaret
+ logisim_src.analyze.gui.TableTabCaret$1
+ logisim_src.analyze.gui.TableTabCaret$Listener
+logisim_src/std/memory/AbstractFlipFlop.java
+ logisim_src.std.memory.AbstractFlipFlop
+ logisim_src.std.memory.AbstractFlipFlop$Logger
+ logisim_src.std.memory.AbstractFlipFlop$Poker
+ logisim_src.std.memory.AbstractFlipFlop$StateData
+logisim_src/data/AttributeEvent.java
+ logisim_src.data.AttributeEvent
+logisim_src/gui/appear/CanvasActionAdapter.java
+ logisim_src.gui.appear.CanvasActionAdapter
+ logisim_src.gui.appear.CanvasActionAdapter$ActionTransaction
+logisim_src/gui/start/AboutCredits.java
+ logisim_src.gui.start.AboutCredits
+ logisim_src.gui.start.AboutCredits$CreditsLine
+logisim_src/circuit/WireIterator.java
+ logisim_src.circuit.WireIterator
+logisim_src/file/MouseMappings.java
+ logisim_src.file.MouseMappings
+ logisim_src.file.MouseMappings$MouseMappingsListener
+logisim_src/gui/menu/MenuFile.java
+ logisim_src.gui.menu.MenuFile
+draw/tools/TextTool.java
+ draw.tools.TextTool
+ draw.tools.TextTool$CancelListener
+ draw.tools.TextTool$FieldListener
+logisim_src/prefs/PrefMonitor.java
+ logisim_src.prefs.PrefMonitor
+logisim_src/comp/TextFieldCaret.java
+ logisim_src.comp.TextFieldCaret
+logisim_src/util/WindowClosable.java
+ logisim_src.util.WindowClosable
+logisim_src/tools/Library.java
+ logisim_src.tools.Library
+draw/gui/AttrTableToolModel.java
+ draw.gui.AttrTableToolModel
+draw/actions/ModelDeleteHandleAction.java
+ draw.actions.ModelDeleteHandleAction
+logisim_src/std/plexers/PriorityEncoder.java
+ logisim_src.std.plexers.PriorityEncoder
+logisim_src/circuit/CircuitMutation.java
+ logisim_src.circuit.CircuitMutation
+logisim_src/std/wiring/ConstantConfigurator.java
+ logisim_src.std.wiring.ConstantConfigurator
+logisim_src/gui/opts/ToolbarOptions.java
+ logisim_src.gui.opts.ToolbarOptions
+ logisim_src.gui.opts.ToolbarOptions$Listener
+logisim_src/std/io/Strings.java
+ logisim_src.std.io.Strings
+logisim_src/gui/prefs/IntlOptions.java
+ logisim_src.gui.prefs.IntlOptions
+ logisim_src.gui.prefs.IntlOptions$RestrictedLabel
+logisim_src/analyze/model/Expressions.java
+ logisim_src.analyze.model.Expressions
+ logisim_src.analyze.model.Expressions$And
+ logisim_src.analyze.model.Expressions$Binary
+ logisim_src.analyze.model.Expressions$Constant
+ logisim_src.analyze.model.Expressions$Not
+ logisim_src.analyze.model.Expressions$Or
+ logisim_src.analyze.model.Expressions$Variable
+ logisim_src.analyze.model.Expressions$Xor
+logisim_src/data/AttributeOption.java
+ logisim_src.data.AttributeOption
+logisim_src/std/gates/PainterShaped.java
+ logisim_src.std.gates.PainterShaped
+logisim_src/gui/log/LogPanel.java
+ logisim_src.gui.log.LogPanel
+logisim_src/std/arith/BitFinder.java
+ logisim_src.std.arith.BitFinder
+logisim_src/data/AttributeSet.java
+ logisim_src.data.AttributeSet
+gray/GrayCounter.java
+ gray.GrayCounter
+logisim_src/std/io/SevenSegment.java
+ logisim_src.std.io.SevenSegment
+logisim_src/analyze/model/OutputExpressions.java
+ logisim_src.analyze.model.OutputExpressions
+ logisim_src.analyze.model.OutputExpressions$MyListener
+ logisim_src.analyze.model.OutputExpressions$OutputData
+hex/Measures.java
+ hex.Measures
+logisim_src/std/gates/CircuitBuilder.java
+ logisim_src.std.gates.CircuitBuilder
+ logisim_src.std.gates.CircuitBuilder$CompareYs
+ logisim_src.std.gates.CircuitBuilder$InputData
+ logisim_src.std.gates.CircuitBuilder$Layout
+ logisim_src.std.gates.CircuitBuilder$SingleInput
+logisim_src/gui/generic/Strings.java
+ logisim_src.gui.generic.Strings
+logisim_src/circuit/WireBundle.java
+ logisim_src.circuit.WireBundle
+logisim_src/std/arith/Multiplier.java
+ logisim_src.std.arith.Multiplier
+logisim_src/comp/ComponentListener.java
+ logisim_src.comp.ComponentListener
+gray/Components.java
+ gray.Components
+logisim_src/util/StringUtil.java
+ logisim_src.util.StringUtil
+ logisim_src.util.StringUtil$1
+ logisim_src.util.StringUtil$2
+ logisim_src.util.StringUtil$3
+logisim_src/std/gates/GateFunctions.java
+ logisim_src.std.gates.GateFunctions
+logisim_src/std/wiring/PullResistor.java
+ logisim_src.std.wiring.PullResistor
+logisim_src/std/plexers/Multiplexer.java
+ logisim_src.std.plexers.Multiplexer
+logisim_src/gui/hex/Strings.java
+ logisim_src.gui.hex.Strings
+logisim_src/prefs/PrefMonitorStringOpts.java
+ logisim_src.prefs.PrefMonitorStringOpts
+logisim_src/gui/menu/MenuItemCheckImpl.java
+ logisim_src.gui.menu.MenuItemCheckImpl
+draw/gui/Main.java
+ draw.gui.Main
+logisim_src/util/EventSourceWeakSupport.java
+ logisim_src.util.EventSourceWeakSupport
+logisim_src/std/Builtin.java
+ logisim_src.std.Builtin
+draw/tools/RectangleTool.java
+ draw.tools.RectangleTool
+logisim_src/comp/TextFieldListener.java
+ logisim_src.comp.TextFieldListener
+logisim_src/circuit/SplitterAttributes.java
+ logisim_src.circuit.SplitterAttributes
+ logisim_src.circuit.SplitterAttributes$BitOutAttribute
+ logisim_src.circuit.SplitterAttributes$BitOutOption
+logisim_src/gui/generic/GridPainter.java
+ logisim_src.gui.generic.GridPainter
+ logisim_src.gui.generic.GridPainter$Listener
+draw/shapes/DrawAttr.java
+ draw.shapes.DrawAttr
+logisim_src/std/gates/PainterDin.java
+ logisim_src.std.gates.PainterDin
+logisim_src/circuit/appear/Strings.java
+ logisim_src.circuit.appear.Strings
+logisim_src/analyze/gui/AnalyzerTab.java
+ logisim_src.analyze.gui.AnalyzerTab
+logisim_src/circuit/CircuitLocker.java
+ logisim_src.circuit.CircuitLocker
+ logisim_src.circuit.CircuitLocker$CircuitComparator
+logisim_src/std/base/Base.java
+ logisim_src.std.base.Base
+logisim_src/analyze/model/Entry.java
+ logisim_src.analyze.model.Entry
+logisim_src/gui/menu/LogisimMenuItem.java
+ logisim_src.gui.menu.LogisimMenuItem
+logisim_src/gui/prefs/PrefOptionList.java
+ logisim_src.gui.prefs.PrefOptionList
+logisim_src/gui/generic/ZoomControl.java
+ logisim_src.gui.generic.ZoomControl
+ logisim_src.gui.generic.ZoomControl$GridIcon
+ logisim_src.gui.generic.ZoomControl$SpinnerModel
+logisim_src/std/memory/JKFlipFlop.java
+ logisim_src.std.memory.JKFlipFlop
+logisim_src/gui/log/ModelListener.java
+ logisim_src.gui.log.ModelListener
+logisim_src/gui/log/LogFrame.java
+ logisim_src.gui.log.LogFrame
+ logisim_src.gui.log.LogFrame$MyListener
+ logisim_src.gui.log.LogFrame$WindowMenuManager
+logisim_src/std/plexers/Demultiplexer.java
+ logisim_src.std.plexers.Demultiplexer
+logisim_src/gui/main/EditHandler.java
+ logisim_src.gui.main.EditHandler
+ logisim_src.gui.main.EditHandler$Listener
+logisim_src/std/gates/XorGate.java
+ logisim_src.std.gates.XorGate
+logisim_src/util/JTreeUtil.java
+ logisim_src.util.JTreeUtil
+ logisim_src.util.JTreeUtil$TransferableNode
+ logisim_src.util.JTreeUtil$TreeTransferHandler
+logisim_src/std/memory/ClockState.java
+ logisim_src.std.memory.ClockState
+logisim_src/std/gates/GateAttributes.java
+ logisim_src.std.gates.GateAttributes
+draw/gui/AttrTableDrawManager.java
+ draw.gui.AttrTableDrawManager
+logisim_src/gui/prefs/WindowOptions.java
+ logisim_src.gui.prefs.WindowOptions
+logisim_src/tools/key/DirectionConfigurator.java
+ logisim_src.tools.key.DirectionConfigurator
+logisim_src/tools/key/NumericConfigurator.java
+ logisim_src.tools.key.NumericConfigurator
+logisim_src/std/io/Tty.java
+ logisim_src.std.io.Tty
+logisim_src/proj/JoinedAction.java
+ logisim_src.proj.JoinedAction
+logisim_src/tools/MenuExtender.java
+ logisim_src.tools.MenuExtender
+logisim_src/tools/MenuTool.java
+ logisim_src.tools.MenuTool
+ logisim_src.tools.MenuTool$MenuComponent
+ logisim_src.tools.MenuTool$MenuSelection
+draw/model/HandleGesture.java
+ draw.model.HandleGesture
+logisim_src/util/UnmodifiableList.java
+ logisim_src.util.UnmodifiableList
+logisim_src/proj/ProjectActions.java
+ logisim_src.proj.ProjectActions
+ logisim_src.proj.ProjectActions$CreateFrame
+draw/actions/ModelTranslateAction.java
+ draw.actions.ModelTranslateAction
+logisim_src/circuit/CircuitAttributes.java
+ logisim_src.circuit.CircuitAttributes
+ logisim_src.circuit.CircuitAttributes$MyListener
+ logisim_src.circuit.CircuitAttributes$StaticListener
+logisim_src/std/memory/RegisterLogger.java
+ logisim_src.std.memory.RegisterLogger
+logisim_src/gui/menu/MenuItem.java
+ logisim_src.gui.menu.MenuItem
+logisim_src/analyze/model/Strings.java
+ logisim_src.analyze.model.Strings
+logisim_src/analyze/model/Parser.java
+ logisim_src.analyze.model.Parser
+ logisim_src.analyze.model.Parser$Context
+ logisim_src.analyze.model.Parser$Token
+logisim_src/std/memory/RomAttributes.java
+ logisim_src.std.memory.RomAttributes
+logisim_src/std/arith/Strings.java
+ logisim_src.std.arith.Strings
+draw/shapes/Oval.java
+ draw.shapes.Oval
+logisim_src/instance/InstanceLogger.java
+ logisim_src.instance.InstanceLogger
+logisim_src/gui/main/Selection.java
+ logisim_src.gui.main.Selection
+ logisim_src.gui.main.Selection$Event
+ logisim_src.gui.main.Selection$Listener
+ logisim_src.gui.main.Selection$MyListener
+logisim_src/std/gates/EvenParityGate.java
+ logisim_src.std.gates.EvenParityGate
+logisim_src/instance/InstanceTextField.java
+ logisim_src.instance.InstanceTextField
+logisim_src/std/gates/AndGate.java
+ logisim_src.std.gates.AndGate
+draw/canvas/CanvasTool.java
+ draw.canvas.CanvasTool
+logisim_src/util/WindowMenu.java
+ logisim_src.util.WindowMenu
+ logisim_src.util.WindowMenu$MyListener
+logisim_src/gui/opts/ToolbarList.java
+ logisim_src.gui.opts.ToolbarList
+ logisim_src.gui.opts.ToolbarList$ListRenderer
+ logisim_src.gui.opts.ToolbarList$Model
+ logisim_src.gui.opts.ToolbarList$ToolIcon
+logisim_src/std/memory/Rom.java
+ logisim_src.std.memory.Rom
+ logisim_src.std.memory.Rom$ContentsAttribute
+ logisim_src.std.memory.Rom$ContentsCell
+logisim_src/std/plexers/BitSelector.java
+ logisim_src.std.plexers.BitSelector
+logisim_src/tools/WireRepair.java
+ logisim_src.tools.WireRepair
+logisim_src/circuit/SubcircuitFactory.java
+ logisim_src.circuit.SubcircuitFactory
+ logisim_src.circuit.SubcircuitFactory$CircuitFeature
+logisim_src/std/gates/GateAttributeList.java
+ logisim_src.std.gates.GateAttributeList
+logisim_src/analyze/gui/OutputSelector.java
+ logisim_src.analyze.gui.OutputSelector
+ logisim_src.analyze.gui.OutputSelector$Model
+logisim_src/std/arith/Subtractor.java
+ logisim_src.std.arith.Subtractor
+logisim_src/circuit/appear/AppearanceSvgReader.java
+ logisim_src.circuit.appear.AppearanceSvgReader
+logisim_src/proj/Strings.java
+ logisim_src.proj.Strings
+hex/Test.java
+ hex.Test
+ hex.Test$Model
+logisim_src/proj/Project.java
+ logisim_src.proj.Project
+ logisim_src.proj.Project$ActionData
+ logisim_src.proj.Project$MyListener
+draw/actions/ModelAddAction.java
+ draw.actions.ModelAddAction
+logisim_src/gui/menu/ProjectLibraryActions.java
+ logisim_src.gui.menu.ProjectLibraryActions
+ logisim_src.gui.menu.ProjectLibraryActions$BuiltinOption
+ logisim_src.gui.menu.ProjectLibraryActions$LibraryJList
+draw/gui/AttrTableSelectionModel.java
+ draw.gui.AttrTableSelectionModel
+logisim_src/circuit/SimulatorEvent.java
+ logisim_src.circuit.SimulatorEvent
+logisim_src/std/arith/Shifter.java
+ logisim_src.std.arith.Shifter
+logisim_src/std/io/Io.java
+ logisim_src.std.io.Io
+logisim_src/gui/appear/AppearanceToolbarModel.java
+ logisim_src.gui.appear.AppearanceToolbarModel
+logisim_src/gui/prefs/OptionsPanel.java
+ logisim_src.gui.prefs.OptionsPanel
+logisim_src/gui/main/SimulationTreeCircuitNode.java
+ logisim_src.gui.main.SimulationTreeCircuitNode
+ logisim_src.gui.main.SimulationTreeCircuitNode$CompareByName
+logisim_src/file/ReaderInputStream.java
+ logisim_src.file.ReaderInputStream
+logisim_src/std/io/Joystick.java
+ logisim_src.std.io.Joystick
+ logisim_src.std.io.Joystick$Poker
+ logisim_src.std.io.Joystick$State
+logisim_src/gui/main/Print.java
+ logisim_src.gui.main.Print
+ logisim_src.gui.main.Print$MyPrintable
+ logisim_src.gui.main.Print$ParmsPanel
+logisim_src/gui/menu/MenuProject.java
+ logisim_src.gui.menu.MenuProject
+ logisim_src.gui.menu.MenuProject$MyListener
+logisim_src/tools/EditTool.java
+ logisim_src.tools.EditTool
+ logisim_src.tools.EditTool$Listener
+logisim_src/std/io/Led.java
+ logisim_src.std.io.Led
+ logisim_src.std.io.Led$Logger
+logisim_src/gui/prefs/Strings.java
+ logisim_src.gui.prefs.Strings
+logisim_src/instance/InstanceState.java
+ logisim_src.instance.InstanceState
+draw/shapes/SvgCreator.java
+ draw.shapes.SvgCreator
+logisim_src/prefs/AbstractPrefMonitor.java
+ logisim_src.prefs.AbstractPrefMonitor
+logisim_src/circuit/SubcircuitPoker.java
+ logisim_src.circuit.SubcircuitPoker
+logisim_src/file/XmlReader.java
+ logisim_src.file.XmlReader
+ logisim_src.file.XmlReader$CircuitData
+ logisim_src.file.XmlReader$ReadContext
+draw/toolbar/ToolbarModelListener.java
+ draw.toolbar.ToolbarModelListener
+logisim_src/gui/prefs/PrefBoolean.java
+ logisim_src.gui.prefs.PrefBoolean
+logisim_src/std/base/Text.java
+ logisim_src.std.base.Text
+logisim_src/prefs/PrefMonitorDouble.java
+ logisim_src.prefs.PrefMonitorDouble
+logisim_src/circuit/AnalyzeException.java
+ logisim_src.circuit.AnalyzeException
+ logisim_src.circuit.AnalyzeException$CannotHandle
+ logisim_src.circuit.AnalyzeException$Circular
+ logisim_src.circuit.AnalyzeException$Conflict
+logisim_src/analyze/model/Assignments.java
+ logisim_src.analyze.model.Assignments
+logisim_src/gui/generic/AttrTableModel.java
+ logisim_src.gui.generic.AttrTableModel
+hex/Caret.java
+ hex.Caret
+ hex.Caret$1
+ hex.Caret$Listener
+logisim_src/tools/Strings.java
+ logisim_src.tools.Strings
+logisim_src/analyze/gui/Strings.java
+ logisim_src.analyze.gui.Strings
+logisim_src/tools/Caret.java
+ logisim_src.tools.Caret
+gray/CounterPoker.java
+ gray.CounterPoker
+logisim_src/gui/generic/AttrTableModelListener.java
+ logisim_src.gui.generic.AttrTableModelListener
+draw/shapes/PolyUtil.java
+ draw.shapes.PolyUtil
+ draw.shapes.PolyUtil$ClosestResult
+logisim_src/data/AttributeSets.java
+ logisim_src.data.AttributeSets
+ logisim_src.data.AttributeSets$1
+ logisim_src.data.AttributeSets$FixedSet
+ logisim_src.data.AttributeSets$SingletonSet
+logisim_src/gui/menu/MenuHelp.java
+ logisim_src.gui.menu.MenuHelp
+logisim_src/util/Icons.java
+ logisim_src.util.Icons
+logisim_src/gui/menu/Popups.java
+ logisim_src.gui.menu.Popups
+ logisim_src.gui.menu.Popups$CircuitPopup
+ logisim_src.gui.menu.Popups$LibraryPopup
+ logisim_src.gui.menu.Popups$ProjectPopup
+draw/undo/ActionUnion.java
+ draw.undo.ActionUnion
+logisim_src/instance/InstanceStateImpl.java
+ logisim_src.instance.InstanceStateImpl
+logisim_src/circuit/Propagator.java
+ logisim_src.circuit.Propagator
+ logisim_src.circuit.Propagator$ComponentPoint
+ logisim_src.circuit.Propagator$Listener
+ logisim_src.circuit.Propagator$SetData
+logisim_src/std/wiring/TunnelAttributes.java
+ logisim_src.std.wiring.TunnelAttributes
+logisim_src/prefs/PrefMonitorString.java
+ logisim_src.prefs.PrefMonitorString
+logisim_src/analyze/model/OutputExpressionsListener.java
+ logisim_src.analyze.model.OutputExpressionsListener
+logisim_src/util/TableConstraints.java
+ logisim_src.util.TableConstraints
+logisim_src/gui/main/Strings.java
+ logisim_src.gui.main.Strings
+logisim_src/proj/ProjectListener.java
+ logisim_src.proj.ProjectListener
+logisim_src/tools/move/MoveGesture.java
+ logisim_src.tools.move.MoveGesture
+logisim_src/tools/move/AvoidanceMap.java
+ logisim_src.tools.move.AvoidanceMap
+logisim_src/std/arith/Divider.java
+ logisim_src.std.arith.Divider
+logisim_src/analyze/model/TruthTableEvent.java
+ logisim_src.analyze.model.TruthTableEvent
+logisim_src/std/gates/ControlledBuffer.java
+ logisim_src.std.gates.ControlledBuffer
+ logisim_src.std.gates.ControlledBuffer$1
+logisim_src/gui/appear/RevertAppearanceAction.java
+ logisim_src.gui.appear.RevertAppearanceAction
+logisim_src/comp/TextFieldEvent.java
+ logisim_src.comp.TextFieldEvent
+logisim_src/std/gates/OrGate.java
+ logisim_src.std.gates.OrGate
+logisim_src/tools/key/Strings.java
+ logisim_src.tools.key.Strings
+logisim_src/std/plexers/Strings.java
+ logisim_src.std.plexers.Strings
+logisim_src/gui/appear/Clipboard.java
+ logisim_src.gui.appear.Clipboard
+logisim_src/gui/main/AttrTableCircuitModel.java
+ logisim_src.gui.main.AttrTableCircuitModel
+logisim_src/gui/main/TickCounter.java
+ logisim_src.gui.main.TickCounter
+logisim_src/gui/generic/ZoomModelListener.java
+ logisim_src.gui.generic.ZoomModelListener
+logisim_src/analyze/gui/TruthTablePanel.java
+ logisim_src.analyze.gui.TruthTablePanel
+draw/shapes/SvgReader.java
+ draw.shapes.SvgReader
+logisim_src/circuit/Splitter.java
+ logisim_src.circuit.Splitter
+logisim_src/std/wiring/BitExtender.java
+ logisim_src.std.wiring.BitExtender
+logisim_src/std/memory/MemState.java
+ logisim_src.std.memory.MemState
+logisim_src/circuit/CircuitTransactionResult.java
+ logisim_src.circuit.CircuitTransactionResult
+logisim_src/gui/main/ToolboxToolbarModel.java
+ logisim_src.gui.main.ToolboxToolbarModel
+logisim_src/tools/TextEditable.java
+ logisim_src.tools.TextEditable
+draw/undo/Action.java
+ draw.undo.Action
+logisim_src/util/Dag.java
+ logisim_src.util.Dag
+ logisim_src.util.Dag$Node
+logisim_src/gui/start/MacOsAdapter.java
+ logisim_src.gui.start.MacOsAdapter
+ logisim_src.gui.start.MacOsAdapter$MyListener
+logisim_src/std/arith/Arithmetic.java
+ logisim_src.std.arith.Arithmetic
+logisim_src/util/IteratorUtil.java
+ logisim_src.util.IteratorUtil
+ logisim_src.util.IteratorUtil$ArrayIterator
+ logisim_src.util.IteratorUtil$EmptyIterator
+ logisim_src.util.IteratorUtil$IteratorUnion
+ logisim_src.util.IteratorUtil$UnitIterator
+logisim_src/instance/Port.java
+ logisim_src.instance.Port
+logisim_src/circuit/SplitterPainter.java
+ logisim_src.circuit.SplitterPainter
+logisim_src/analyze/gui/BuildCircuitButton.java
+ logisim_src.analyze.gui.BuildCircuitButton
+ logisim_src.analyze.gui.BuildCircuitButton$DialogPanel
+ logisim_src.analyze.gui.BuildCircuitButton$MyListener
+ logisim_src.analyze.gui.BuildCircuitButton$ProjectItem
+draw/model/CanvasModel.java
+ draw.model.CanvasModel
+logisim_src/tools/key/ParallelConfigurator.java
+ logisim_src.tools.key.ParallelConfigurator
+logisim_src/gui/main/SimulationTreeRenderer.java
+ logisim_src.gui.main.SimulationTreeRenderer
+ logisim_src.gui.main.SimulationTreeRenderer$RendererIcon
+logisim_src/LogisimVersion.java
+ logisim_src.LogisimVersion
+logisim_src/std/memory/ShiftRegisterPoker.java
+ logisim_src.std.memory.ShiftRegisterPoker
+logisim_src/comp/ComponentDrawContext.java
+ logisim_src.comp.ComponentDrawContext
+hex/Highlighter.java
+ hex.Highlighter
+ hex.Highlighter$Entry
+logisim_src/gui/generic/CardPanel.java
+ logisim_src.gui.generic.CardPanel
+draw/shapes/Strings.java
+ draw.shapes.Strings
+logisim_src/file/XmlCircuitReader.java
+ logisim_src.file.XmlCircuitReader
+logisim_src/gui/main/Toolbox.java
+ logisim_src.gui.main.Toolbox
+logisim_src/gui/main/AttrTableSelectionModel.java
+ logisim_src.gui.main.AttrTableSelectionModel
+logisim_src/std/arith/BitAdder.java
+ logisim_src.std.arith.BitAdder
+logisim_src/circuit/CircuitState.java
+ logisim_src.circuit.CircuitState
+ logisim_src.circuit.CircuitState$MyCircuitListener
+logisim_src/std/memory/Random.java
+ logisim_src.std.memory.Random
+ logisim_src.std.memory.Random$Logger
+ logisim_src.std.memory.Random$StateData
+logisim_src/analyze/model/Expression.java
+ logisim_src.analyze.model.Expression
+ logisim_src.analyze.model.Expression$1
+ logisim_src.analyze.model.Expression$2
+ logisim_src.analyze.model.Expression$3
+ logisim_src.analyze.model.Expression$4
+ logisim_src.analyze.model.Expression$5
+ logisim_src.analyze.model.Expression$6
+ logisim_src.analyze.model.Expression$7
+ logisim_src.analyze.model.Expression$IntVisitor
+ logisim_src.analyze.model.Expression$Visitor
+logisim_src/comp/AbstractComponent.java
+ logisim_src.comp.AbstractComponent
+draw/actions/ModelAction.java
+ draw.actions.ModelAction
+logisim_src/tools/CaretEvent.java
+ logisim_src.tools.CaretEvent
+logisim_src/gui/log/ValueLog.java
+ logisim_src.gui.log.ValueLog
+logisim_src/data/AbstractAttributeSet.java
+ logisim_src.data.AbstractAttributeSet
+logisim_src/analyze/gui/TableTab.java
+ logisim_src.analyze.gui.TableTab
+ logisim_src.analyze.gui.TableTab$1
+ logisim_src.analyze.gui.TableTab$MyListener
+logisim_src/util/WindowMenuItemManager.java
+ logisim_src.util.WindowMenuItemManager
+ logisim_src.util.WindowMenuItemManager$MyListener
+logisim_src/gui/log/ScrollPanel.java
+ logisim_src.gui.log.ScrollPanel
+gray/GrayIncrementer.java
+ gray.GrayIncrementer
+logisim_src/gui/main/Canvas.java
+ logisim_src.gui.main.Canvas
+ logisim_src.gui.main.Canvas$MyListener
+ logisim_src.gui.main.Canvas$MyProjectListener
+ logisim_src.gui.main.Canvas$MyViewport
+logisim_src/tools/move/ConnectionData.java
+ logisim_src.tools.move.ConnectionData
+logisim_src/analyze/model/ParserException.java
+ logisim_src.analyze.model.ParserException
+draw/canvas/SelectionListener.java
+ draw.canvas.SelectionListener
+logisim_src/comp/ComponentUserEvent.java
+ logisim_src.comp.ComponentUserEvent
+logisim_src/gui/appear/LayoutThumbnail.java
+ logisim_src.gui.appear.LayoutThumbnail
+logisim_src/circuit/ExpressionComputer.java
+ logisim_src.circuit.ExpressionComputer
+logisim_src/analyze/gui/KarnaughMapPanel.java
+ logisim_src.analyze.gui.KarnaughMapPanel
+ logisim_src.analyze.gui.KarnaughMapPanel$MyListener
+logisim_src/std/wiring/Pin.java
+ logisim_src.std.wiring.Pin
+ logisim_src.std.wiring.Pin$PinLogger
+ logisim_src.std.wiring.Pin$PinPoker
+ logisim_src.std.wiring.Pin$PinState
+logisim_src/gui/hex/HexFile.java
+ logisim_src.gui.hex.HexFile
+ logisim_src.gui.hex.HexFile$HexReader
+logisim_src/comp/AbstractComponentFactory.java
+ logisim_src.comp.AbstractComponentFactory
+logisim_src/gui/main/SelectionActions.java
+ logisim_src.gui.main.SelectionActions
+ logisim_src.gui.main.SelectionActions$Copy
+ logisim_src.gui.main.SelectionActions$Cut
+ logisim_src.gui.main.SelectionActions$Delete
+ logisim_src.gui.main.SelectionActions$Drop
+ logisim_src.gui.main.SelectionActions$Duplicate
+ logisim_src.gui.main.SelectionActions$Paste
+ logisim_src.gui.main.SelectionActions$Translate
+logisim_src/gui/log/Strings.java
+ logisim_src.gui.log.Strings
+logisim_src/util/ZipClassLoader.java
+ logisim_src.util.ZipClassLoader
+ logisim_src.util.ZipClassLoader$Request
+ logisim_src.util.ZipClassLoader$WorkThread
+logisim_src/util/WindowMenuItem.java
+ logisim_src.util.WindowMenuItem
+logisim_src/std/plexers/Decoder.java
+ logisim_src.std.plexers.Decoder
+logisim_src/gui/opts/ToolbarActions.java
+ logisim_src.gui.opts.ToolbarActions
+ logisim_src.gui.opts.ToolbarActions$AddSeparator
+ logisim_src.gui.opts.ToolbarActions$AddTool
+ logisim_src.gui.opts.ToolbarActions$MoveTool
+ logisim_src.gui.opts.ToolbarActions$RemoveSeparator
+ logisim_src.gui.opts.ToolbarActions$RemoveTool
+draw/gui/Strings.java
+ draw.gui.Strings
+logisim_src/std/io/HexDigit.java
+ logisim_src.std.io.HexDigit
+logisim_src/analyze/gui/ExpressionTab.java
+ logisim_src.analyze.gui.ExpressionTab
+ logisim_src.analyze.gui.ExpressionTab$MyListener
+logisim_src/tools/move/Connector.java
+ logisim_src.tools.move.Connector
+ logisim_src.tools.move.Connector$1
+logisim_src/circuit/CircuitException.java
+ logisim_src.circuit.CircuitException
+logisim_src/gui/start/TtyInterface.java
+ logisim_src.gui.start.TtyInterface
+ logisim_src.gui.start.TtyInterface$StdinThread
+draw/canvas/CanvasListener.java
+ draw.canvas.CanvasListener
+logisim_src/gui/start/SplashScreen.java
+ logisim_src.gui.start.SplashScreen
+ logisim_src.gui.start.SplashScreen$1
+ logisim_src.gui.start.SplashScreen$Marker
+draw/toolbar/AbstractToolbarModel.java
+ draw.toolbar.AbstractToolbarModel
+logisim_src/gui/log/FilePanel.java
+ logisim_src.gui.log.FilePanel
+ logisim_src.gui.log.FilePanel$Listener
+logisim_src/util/VerticalSplitPane.java
+ logisim_src.util.VerticalSplitPane
+ logisim_src.util.VerticalSplitPane$MyDragbar
+ logisim_src.util.VerticalSplitPane$MyLayout
+logisim_src/circuit/RadixOption.java
+ logisim_src.circuit.RadixOption
+ logisim_src.circuit.RadixOption$Radix10Signed
+ logisim_src.circuit.RadixOption$Radix10Unsigned
+ logisim_src.circuit.RadixOption$Radix16
+ logisim_src.circuit.RadixOption$Radix2
+ logisim_src.circuit.RadixOption$Radix8
+logisim_src/gui/generic/CanvasPane.java
+ logisim_src.gui.generic.CanvasPane
+ logisim_src.gui.generic.CanvasPane$Listener
+logisim_src/tools/AddTool.java
+ logisim_src.tools.AddTool
+ logisim_src.tools.AddTool$MyAttributeListener
+logisim_src/prefs/AppPreferences.java
+ logisim_src.prefs.AppPreferences
+ logisim_src.prefs.AppPreferences$LocalePreference
+ logisim_src.prefs.AppPreferences$MyListener
+draw/toolbar/ToolbarModel.java
+ draw.toolbar.ToolbarModel
+logisim_src/tools/ToolTipMaker.java
+ logisim_src.tools.ToolTipMaker
+logisim_src/gui/generic/LDialog.java
+ logisim_src.gui.generic.LDialog
+logisim_src/gui/menu/LogisimMenuBar.java
+ logisim_src.gui.menu.LogisimMenuBar
+ logisim_src.gui.menu.LogisimMenuBar$MyListener
+logisim_src/std/gates/NorGate.java
+ logisim_src.std.gates.NorGate
+logisim_src/gui/opts/OptionsActions.java
+ logisim_src.gui.opts.OptionsActions
+ logisim_src.gui.opts.OptionsActions$RemoveMapping
+ logisim_src.gui.opts.OptionsActions$SetAction
+ logisim_src.gui.opts.OptionsActions$SetMapping
+logisim_src/gui/menu/MenuSimulate.java
+ logisim_src.gui.menu.MenuSimulate
+ logisim_src.gui.menu.MenuSimulate$CircuitStateMenuItem
+ logisim_src.gui.menu.MenuSimulate$MyListener
+ logisim_src.gui.menu.MenuSimulate$TickFrequencyChoice
+logisim_src/instance/InstanceFactory.java
+ logisim_src.instance.InstanceFactory
+logisim_src/util/Cache.java
+ logisim_src.util.Cache
+logisim_src/data/Bounds.java
+ logisim_src.data.Bounds
+logisim_src/file/Strings.java
+ logisim_src.file.Strings
+logisim_src/gui/log/LogThread.java
+ logisim_src.gui.log.LogThread
+logisim_src/gui/opts/MouseOptions.java
+ logisim_src.gui.opts.MouseOptions
+ logisim_src.gui.opts.MouseOptions$AddArea
+ logisim_src.gui.opts.MouseOptions$MappingsModel
+ logisim_src.gui.opts.MouseOptions$MyListener
+logisim_src/gui/appear/AppearanceEditPopup.java
+ logisim_src.gui.appear.AppearanceEditPopup
+draw/tools/PolyTool.java
+ draw.tools.PolyTool
+draw/actions/ModelReorderAction.java
+ draw.actions.ModelReorderAction
+logisim_src/comp/Component.java
+ logisim_src.comp.Component
+logisim_src/std/memory/RomContentsListener.java
+ logisim_src.std.memory.RomContentsListener
+ logisim_src.std.memory.RomContentsListener$Change
+draw/tools/DrawingAttributeSet.java
+ draw.tools.DrawingAttributeSet
+ draw.tools.DrawingAttributeSet$Restriction
+logisim_src/gui/menu/MenuItemImpl.java
+ logisim_src.gui.menu.MenuItemImpl
+logisim_src/gui/main/SelectionSave.java
+ logisim_src.gui.main.SelectionSave
+logisim_src/std/plexers/Plexers.java
+ logisim_src.std.plexers.Plexers
+logisim_src/std/wiring/Power.java
+ logisim_src.std.wiring.Power
+logisim_src/file/LoaderException.java
+ logisim_src.file.LoaderException
+logisim_src/std/gates/Gates.java
+ logisim_src.std.gates.Gates
+logisim_src/util/FontUtil.java
+ logisim_src.util.FontUtil
+logisim_src/std/io/TtyState.java
+ logisim_src.std.io.TtyState
+logisim_src/util/JInputComponent.java
+ logisim_src.util.JInputComponent
+hex/HexEditor.java
+ hex.HexEditor
+ hex.HexEditor$Listener
+logisim_src/std/memory/ShiftRegisterLogger.java
+ logisim_src.std.memory.ShiftRegisterLogger
+draw/toolbar/ToolbarItem.java
+ draw.toolbar.ToolbarItem
+logisim_src/gui/generic/BasicZoomModel.java
+ logisim_src.gui.generic.BasicZoomModel
+logisim_src/gui/main/SimulationTreeModel.java
+ logisim_src.gui.main.SimulationTreeModel
+draw/toolbar/Toolbar.java
+ draw.toolbar.Toolbar
+ draw.toolbar.Toolbar$MyListener
+logisim_src/gui/opts/OptionsPanel.java
+ logisim_src.gui.opts.OptionsPanel
+logisim_src/circuit/Analyze.java
+ logisim_src.circuit.Analyze
+ logisim_src.circuit.Analyze$1
+ logisim_src.circuit.Analyze$ExpressionMap
+logisim_src/circuit/Simulator.java
+ logisim_src.circuit.Simulator
+ logisim_src.circuit.Simulator$PropagationManager
+logisim_src/analyze/gui/TableTabClip.java
+ logisim_src.analyze.gui.TableTabClip
+ logisim_src.analyze.gui.TableTabClip$Data
+draw/toolbar/ToolbarButton.java
+ draw.toolbar.ToolbarButton
+logisim_src/file/FileStatistics.java
+ logisim_src.file.FileStatistics
+ logisim_src.file.FileStatistics$Count
+draw/canvas/SelectionEvent.java
+ draw.canvas.SelectionEvent
+logisim_src/gui/prefs/ExperimentalOptions.java
+ logisim_src.gui.prefs.ExperimentalOptions
+logisim_src/tools/Tool.java
+ logisim_src.tools.Tool
+logisim_src/gui/hex/Clip.java
+ logisim_src.gui.hex.Clip
+ logisim_src.gui.hex.Clip$Data
+logisim_src/circuit/appear/AppearanceElement.java
+ logisim_src.circuit.appear.AppearanceElement
+draw/actions/Strings.java
+ draw.actions.Strings
+logisim_src/file/LoadedLibrary.java
+ logisim_src.file.LoadedLibrary
+ logisim_src.file.LoadedLibrary$MyListener
+draw/model/ReorderRequest.java
+ draw.model.ReorderRequest
+ draw.model.ReorderRequest$Compare
+logisim_src/std/memory/Register.java
+ logisim_src.std.memory.Register
+logisim_src/data/Attribute.java
+ logisim_src.data.Attribute
+logisim_src/circuit/CircuitChange.java
+ logisim_src.circuit.CircuitChange
+logisim_src/gui/main/SelectionAttributes.java
+ logisim_src.gui.main.SelectionAttributes
+ logisim_src.gui.main.SelectionAttributes$Listener
+logisim_src/std/gates/CircuitDetermination.java
+ logisim_src.std.gates.CircuitDetermination
+ logisim_src.std.gates.CircuitDetermination$Determine
+ logisim_src.std.gates.CircuitDetermination$Gate
+ logisim_src.std.gates.CircuitDetermination$Input
+ logisim_src.std.gates.CircuitDetermination$Value
+draw/tools/OvalTool.java
+ draw.tools.OvalTool
+logisim_src/tools/CustomHandles.java
+ logisim_src.tools.CustomHandles
+draw/actions/ModelChangeAttributeAction.java
+ draw.actions.ModelChangeAttributeAction
+logisim_src/instance/InstancePokerAdapter.java
+ logisim_src.instance.InstancePokerAdapter
+logisim_src/circuit/Circuit.java
+ logisim_src.circuit.Circuit
+ logisim_src.circuit.Circuit$EndChangedTransaction
+ logisim_src.circuit.Circuit$MyComponentListener
+logisim_src/gui/main/SelectionBase.java
+ logisim_src.gui.main.SelectionBase
+draw/shapes/FillableCanvasObject.java
+ draw.shapes.FillableCanvasObject
+draw/canvas/Selection.java
+ draw.canvas.Selection
+logisim_src/data/AttributeSetImpl.java
+ logisim_src.data.AttributeSetImpl
+ logisim_src.data.AttributeSetImpl$AttrIterator
+ logisim_src.data.AttributeSetImpl$AttrList
+ logisim_src.data.AttributeSetImpl$Node
+draw/tools/RectangularTool.java
+ draw.tools.RectangularTool
+draw/actions/ModelEditTextAction.java
+ draw.actions.ModelEditTextAction
+logisim_src/gui/main/ExplorerToolbarModel.java
+ logisim_src.gui.main.ExplorerToolbarModel
+hex/HexModel.java
+ hex.HexModel
+logisim_src/gui/appear/ClipboardActions.java
+ logisim_src.gui.appear.ClipboardActions
+logisim_src/analyze/model/ExpressionVisitor.java
+ logisim_src.analyze.model.ExpressionVisitor
+logisim_src/circuit/Wire.java
+ logisim_src.circuit.Wire
+ logisim_src.circuit.Wire$EndList
+logisim_src/circuit/CircuitEvent.java
+ logisim_src.circuit.CircuitEvent
+logisim_src/circuit/WireFactory.java
+ logisim_src.circuit.WireFactory
+logisim_src/gui/log/Model.java
+ logisim_src.gui.log.Model

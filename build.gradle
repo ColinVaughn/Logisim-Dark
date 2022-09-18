@@ -1,0 +1,30 @@
+
+plugins {
+    id 'java'
+}
+group 'logisim_src'
+version '1.0-SNAPSHOT'
+sourceSets.main.resources.srcDirs = [ "src/resources" ]
+
+
+repositories {
+    mavenCentral()
+    maven {url 'https://jitpack.io'}
+    maven { url 'https://oss.sonatype.org/service/local/repositories/releases/content/' }
+}
+dependencies {
+    implementation files('libs/legacy.jar') //Temporary also needing to shade in
+    implementation 'com.github.MrUniverse44:SlimeLib:1.0.7'
+    implementation 'com.google.code.gson:gson:2.9.1'
+    implementation group: 'com.formdev', name: 'flatlaf', version: '2.4' //gotta shade in library
+    compileOnly 'com.formdev:flatlaf:2.4' //gotta shade in library
+
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'logisim_src.LogisimMain'
+        )
+    }
+}
